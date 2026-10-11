@@ -1,8 +1,7 @@
 # CampusOS — AI-Powered Campus Operating System
 
 CampusOS is a full-stack campus platform that unifies timetables, attendance, notices,
-mess, placements, wellbeing, and scheduling behind a single **AI assistant**. It was built
-for the HackOn (Amazon) hackathon and uses an Amazon-inspired dark/orange theme.
+mess, placements, wellbeing, and scheduling behind a single **AI assistant**. 
 
 The system is **role-aware** (Student, Faculty, Academic Admin, Super Admin) and ships an
 agentic chatbot that both **answers questions** (for students) and **performs actions**
@@ -82,7 +81,7 @@ agentic chatbot that both **answers questions** (for students) and **performs ac
 ## Project structure
 
 ```
-hackon/
+UniCampus/
 ├── backend/
 │   ├── app/
 │   │   ├── main.py                # FastAPI app + router registration + CORS
